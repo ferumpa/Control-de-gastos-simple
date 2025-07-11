@@ -1,2 +1,2 @@
-# Control-de-gastos-simple
+# Proyectos
 control de gastos simple, codigo basico
