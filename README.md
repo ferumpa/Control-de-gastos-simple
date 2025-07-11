@@ -1,3 +1,3 @@
 # Proyectos
-proyecto simples de practica
+practicando
 
