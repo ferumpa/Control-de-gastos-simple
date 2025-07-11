@@ -1,2 +1,3 @@
 # Proyectos
-control de gastos simple, codigo basico
+proyecto simples de practica
+
